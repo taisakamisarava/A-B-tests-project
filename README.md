@@ -1,6 +1,7 @@
 # A-B-tests-project
 
 В репозитории два задания по А/Б тестам.
+ссылка на коллаб: https://colab.research.google.com/drive/1_Moa5FIkjZLfcKlbYMX0i91N63aUGbxi?usp=sharing
 
 ## 1 задание - провести A/B тест на процессе продажных обзвонов.
 
